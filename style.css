@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(10, 177, 255);
+}
+
+
+.header {
+    color: rgb(0, 0, 0);
+}
+
+
+.header h1 {
+    text-align: center;
+}
+
+.form-group {
+    color: black;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center ;
+    color: rgb(235, 28, 5);
+}
+
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(255, 72, 0);
+}
